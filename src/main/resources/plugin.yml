@@ -1,6 +1,6 @@
 name: Barrels
 description: A better way of storing items.
-authors: [John000708, TheBusyBiscuit]
+authors: [John000708, TheBusyBiscuit, BingYanchi]
 version: ${project.version}
 
 main: me.john000708.barrels.Barrels
