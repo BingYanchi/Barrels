@@ -33,7 +33,7 @@ public final class DisplayItem {
         }
 
         ItemStack stack = new ItemStack(Material.BARRIER, 1);
-        String nametag = ChatColor.RED + "Empty";
+        String nametag = ChatColor.RED + "空的";
         BlockMenu menu = BlockStorage.getInventory(b);
 
         if (BlockStorage.getLocationInfo(b.getLocation(), "storedItems") != null) {
